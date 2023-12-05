@@ -3,4 +3,4 @@ This is a website that has information on how to make a website the most optimiz
 
 Below is a screenshot of my website and the link to it
 
-<a href="">CLick here to go to my website<a>
+<a href="Develop/index.html">CLick here to go to my website<a>
